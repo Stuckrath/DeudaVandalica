@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding:0;
+    color: white;
+    box-sizing: border-box;
+}
+
+a{
+    color: white;
+    
+}
+
+div.Head {
+    
+    background-color: rgb(29, 176, 235);
+    width: 100%;
+    padding:2.8rem;
+    text-align: center;
+}
+
+div.Context {
+ background-color: rgb(12, 78, 78);
+ padding-bottom:4rem;
+ text-align: center;
+}
+
+div.Space{
+    background-color: rgb(33, 148, 148);
+    padding-bottom:2.5rem;
+}
+
+div.test{
+   
+    background-color:white;
+    text-align: center;
+    background-image: url("media/Fondo\ de\ deuda.png");
+    background-size: cover;
+    padding-bottom: 9rem;
+}
+
+.leftside,.rightside{
+    height:15rem;
+    width:50%;
+}
+
+.lefttitle,.righttitle{
+    font-size:2.5rem;
+    height:4rem;
+    width:50%;
+    
+}
+
+.leftside{
+    background-color: rgb(20, 139, 20);
+    font-size: 1.5rem;
+}
+
+.rightside{
+    background-color: rgb(134, 21, 21);
+    font-size: 1.5rem;
+}
+.lefttitle{
+    background-color: rgb(15, 99, 15); text-align: center
+}
+
+.righttitle{
+    background-color: rgb(109, 18, 18); text-align: center
+}
+
+div.TPendiente {
+    
+    background-color: rgb(122, 67, 21);
+    font-size:2.5rem;
+    width: 100%;
+    padding:0rem;
+    text-align: center;
+}
+.pendiente {
+    background-color: rgb(177, 124, 27);
+    font-size: 1.7rem;
+    text-align: center;
+    
+}
+
+.black{
+    color: black;
+}
+
+.d1{
+    font-size: 3rem;
+    top: 1rem;
+}
+.d2{
+    font-size: 5rem;
+    margin-top: 10rem;
+}
+
+h2.cm{
+    font-size:3rem;
+}
