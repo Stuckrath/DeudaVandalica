@@ -3,6 +3,7 @@
     padding:0;
     color: white;
     box-sizing: border-box;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 a{
@@ -39,7 +40,7 @@ div.test{
 }
 
 .leftside,.rightside{
-    height:15rem;
+    height:17rem;
     width:50%;
 }
 
