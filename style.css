@@ -79,6 +79,20 @@ div.TPendiente {
     font-size: 1.7rem;
     text-align: center;
     
+    div.TCancelado {
+    
+    background-color: rgb(48, 61, 51);
+    font-size:2.5rem;
+    width: 100%;
+    padding:0rem;
+    text-align: center;
+}
+.cancelado {
+    background-color: rgb(111, 117, 113);
+    font-size: 1.7rem;
+    text-align: center;
+    
+    
 }
 
 .black{
